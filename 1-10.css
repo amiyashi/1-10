@@ -11,7 +11,8 @@ header {
 
 main {
   width: 960px;
-  margin: 50px auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
   display: flex;
 }
 
@@ -29,20 +30,20 @@ main {
 
 .step1-image {
   height: 150px;
-  background-image: url(../img/img_chapter9/flow01.png);
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 .step2-image {
   height: 150px;
-  background-image: url(../img/img_chapter9/flow02.png);
+  background-image: url(img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step3-image {
   height: 150px;
-  background-image: url(../img/img_chapter9/flow03.png);
+  background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
